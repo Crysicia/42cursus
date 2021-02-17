@@ -7,7 +7,7 @@
 | 1 | ft_printf | C | ✔️ | 100/100 | 09/12/2020 |
 | 1 | netwhat | TCP/IP | ✔️ | 100/100 | 11/12/2020 |
 | 2 | ft_server | Docker | ✔️ | 100/100 | 18/12/2020 |
-| 2 | cub3d / miniRT | C | - | - | - |
+| 2 | cub3d / miniRT | C | ✔️ | 101/100 | 17/02/2020 |
 | 3 | ft_services | Docker / k8s | - | - | - |
 | 3 | libasm | ASM | - | - | - |
 | 3 | minishell | C | - | - | - |
