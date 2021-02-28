@@ -1,13 +1,16 @@
 # Crysicia's journey through 42cursus
 **Entry date :** *16/11/2020*
+
+[![lpassera's stats](https://badge42.herokuapp.com/api/stats/lpassera?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
 | Circle | Project | Tech | Status | Grade | Completed |
 |--|--|--|--|--|--|
-| 0 | Libft | C | ✔️ | 115/100 | 24/11/2020 |
-| 1 | get_next_line | C | ✔️ | 115/100 | 25/11/2020 |
-| 1 | ft_printf | C | ✔️ | 100/100 | 09/12/2020 |
-| 1 | netwhat | TCP/IP | ✔️ | 100/100 | 11/12/2020 |
-| 2 | ft_server | Docker | ✔️ | 100/100 | 18/12/2020 |
-| 2 | cub3d / miniRT | C | ✔️ | 101/100 | 17/02/2020 |
+| 0 | Libft | C | ✔️ | [![115/100](https://badge42.herokuapp.com/api/project/lpassera/Libft)](https://github.com/JaeSeoKim/badge42) | 24/11/2020 |
+| 1 | get_next_line | C | ✔️ | [![115/100](https://badge42.herokuapp.com/api/project/lpassera/get_next_line)](https://github.com/JaeSeoKim/badge42) | 25/11/2020 |
+| 1 | ft_printf | C | ✔️ | [![100/100](https://badge42.herokuapp.com/api/project/lpassera/ft_printf)](https://github.com/JaeSeoKim/badge42) | 09/12/2020 |
+| 1 | netwhat | TCP/IP | ✔️ | [![100/100](https://badge42.herokuapp.com/api/project/lpassera/netwhat)](https://github.com/JaeSeoKim/badge42) | 11/12/2020 |
+| 2 | ft_server | Docker | ✔️ | [![100/100](https://badge42.herokuapp.com/api/project/lpassera/ft_server)](https://github.com/JaeSeoKim/badge42) | 18/12/2020 |
+| 2 | cub3d | C | ✔️ | [![101/100](https://badge42.herokuapp.com/api/project/lpassera/cub3d)](https://github.com/JaeSeoKim/badge42) | 17/02/2020 |
 | 3 | ft_services | Docker / k8s | - | - | - |
 | 3 | libasm | ASM | - | - | - |
 | 3 | minishell | C | - | - | - |
