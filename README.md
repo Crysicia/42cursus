@@ -12,7 +12,7 @@
 | 🚩 | 2 | Exam Rank 02 | C | ✔️ | [![100/100](https://badge42.herokuapp.com/api/project/lpassera/Exam%20Rank%2002)](https://github.com/JaeSeoKim/badge42) | 19/03/2021 |
 | ● | 2 | ft_server | Docker | ✔️ | [![100/100](https://badge42.herokuapp.com/api/project/lpassera/ft_server)](https://github.com/JaeSeoKim/badge42) | 18/12/2020 |
 | ● | 2 | cub3d | C | ✔️ | [![101/100](https://badge42.herokuapp.com/api/project/lpassera/cub3d)](https://github.com/JaeSeoKim/badge42) | 17/02/2020 |
-| - | 3 | Exam Rank 03 | C | - | [![Subscribed](https://badge42.herokuapp.com/api/project/lpassera/Exam%20Rank%2003)](https://github.com/JaeSeoKim/badge42) | - |
+| 🚩 | 3 | Exam Rank 03 | C | ✔️ | [![100/100](https://badge42.herokuapp.com/api/project/lpassera/Exam%20Rank%2003)](https://github.com/JaeSeoKim/badge42) | 01/06/2021 |
 | ● | 3 | libasm | ASM | ✔️ | [![125/100](https://badge42.herokuapp.com/api/project/lpassera/libasm)](https://github.com/JaeSeoKim/badge42) | 11/03/2021 |
 | ● | 3 | push_swap | C | ✔️ | [![91/100](https://badge42.herokuapp.com/api/project/lpassera/push_swap)](https://github.com/JaeSeoKim/badge42) | 30/03/2021 |
 | ○ | 3 | minishell | C | - | [![Subscribed](https://badge42.herokuapp.com/api/project/lpassera/minishell?)](https://github.com/JaeSeoKim/badge42) | - |
