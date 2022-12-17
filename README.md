@@ -18,15 +18,15 @@
 | ● | 3 | push_swap | C | ✔️ | [![91/100](https://badge42.herokuapp.com/api/project/lpassera/push_swap)](https://github.com/JaeSeoKim/badge42) | 30/03/2021 |
 | ● | 3 | minishell | C / Unix | ✔️ | [![99/100](https://badge42.herokuapp.com/api/project/lpassera/minishell?)](https://github.com/JaeSeoKim/badge42) | 12/08/2021 |
 | 🚩 | 4 | Exam Rank 04 | C | ✔️ | [![100/100](https://badge42.herokuapp.com/api/project/lpassera/Exam%20Rank%2004)](https://github.com/JaeSeoKim/badge42) | 11/02/2022 |
-| ● | 4 | CPP Module 0 | C++ | ✔️ | - | 06/01/2022 |
-| ● | 4 | CPP Module 1 | C++ | ✔️ | - | 10/01/2022 |
-| ● | 4 | CPP Module 2 | C++ | ✔️ | - | 10/01/2022 |
-| ● | 4 | CPP Module 3 | C++ | ✔️ | - | 11/01/2022 |
-| ● | 4 | CPP Module 4 | C++ | ✔️ | - | 13/01/2022 |
-| ● | 4 | CPP Module 5 | C++ | ✔️ | - | 25/01/2022 |
-| ● | 4 | CPP Module 6 | C++ | ✔️ | - | 08/02/2022 |
-| ● | 4 | CPP Module 7 | C++ | ✔️ | - | 10/02/2022 |
-| ● | 4 | CPP Module 8 | C++ | ✔️ | - | 21/02/2022 |
+| ● | 4 | CPP Module 0 | C++ | ✔️ | 80/100 | 06/01/2022 |
+| ● | 4 | CPP Module 1 | C++ | ✔️ | 95/100 | 10/01/2022 |
+| ● | 4 | CPP Module 2 | C++ | ✔️ | 80/100 | 10/01/2022 |
+| ● | 4 | CPP Module 3 | C++ | ✔️ | 100/100 | 11/01/2022 |
+| ● | 4 | CPP Module 4 | C++ | ✔️ | 90/100 | 13/01/2022 |
+| ● | 4 | CPP Module 5 | C++ | ✔️ | 100/100 | 25/01/2022 |
+| ● | 4 | CPP Module 6 | C++ | ✔️ | 100/100 | 08/02/2022 |
+| ● | 4 | CPP Module 7 | C++ | ✔️ | 100/100 | 10/02/2022 |
+| ● | 4 | CPP Module 8 | C++ | ✔️ | 100/100 | 21/02/2022 |
 | ● | 4 | Philosophers | C | ✔️ | [![100/100](https://badge42.herokuapp.com/api/project/lpassera/philosophers)](https://github.com/JaeSeoKim/badge42) | 26/10/2021 |
 | - | 5 | Exam Rank 05 | C | - | [![Subscribed](https://badge42.herokuapp.com/api/project/lpassera/Exam%20Rank%2005)](https://github.com/JaeSeoKim/badge42) | - |
 | ○ | 5 | ft_containers | C++ | - | - | - |
