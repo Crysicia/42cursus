@@ -1,7 +1,7 @@
 # Crysicia's journey through 42cursus
 **Entry date :** *16/11/2020*
 
-[![lpassera's 42 stats](https://badge42.vercel.app/api/v2/cl17s7zye001509mm8026nigk/stats?cursusId=21&coalitionId=11)](https://github.com/JaeSeoKim/badge42)
+[![lpassera's 42 stats](https://badge42.vercel.app/api/v2/cl17s7zye001509mm8026nigk/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
 
 | | Circle | Project | Tech | Status | Grade | Completed |
 |--|--|--|--|--|--|--|
@@ -33,4 +33,4 @@
 | ● | 5 | ft_irc / webserv | C++ | ✔️ | [![115/100](https://badge42.vercel.app/api/v2/cl17s7zye001509mm8026nigk/project/2522603)](https://github.com/JaeSeoKim/badge42) | 28/03/2022 |
 | ● | 5 | inception | Docker | ✔️ | [![100/100](https://badge42.vercel.app/api/v2/cl17s7zye001509mm8026nigk/project/2171224)](https://github.com/JaeSeoKim/badge42) | 17/12/2022 |
 | 🚩 | 6 | Exam Rank 06 | C | ✔️ | [![100/100](https://badge42.vercel.app/api/v2/cl17s7zye001509mm8026nigk/project/2994316)](https://github.com/JaeSeoKim/badge42) | 24/02/2023 |
-| ○ | 6 | ft_transcendence |  NestJS / VueJS / TS | 🕒 | - | - |
+| ● | 6 | ft_transcendence |  NestJS / VueJS / TS | ✔️ | [![100/100](https://badge42.vercel.app/api/v2/cl17s7zye001509mm8026nigk/project/3012521)](https://github.com/JaeSeoKim/badge42) | 29/06/2023 |
